@@ -46,18 +46,23 @@ namespace ConsoleApp26
             switch(s)
             {
                 case 'a':
+                case 'A':
                     Console.WriteLine("Entered character is a vowel");
                     break;
                 case 'e':
+                case 'E':
                     Console.WriteLine("Entered character is a vowel");
                     break;
                 case 'i':
+                case 'I':
                     Console.WriteLine("Entered character is a vowel");
                     break;
                 case 'o':
+                case 'O':
                     Console.WriteLine("Entered character is a vowel");
                     break;
                 case 'u':
+                case 'U':
                     Console.WriteLine("Entered character is a vowel");
                     break;
                 default:
